@@ -4,6 +4,7 @@ package recursion
  * source: question and explanation is in the video course taken from Geeksforgeeks.
  * <p>
  * Maximum Product Cutting
+ * QUESTION:
  * Given a rope of length n.
  * max num of pieces you can make such that length of every piece is in
  * set {a,b,c} for the given values a,b,c
